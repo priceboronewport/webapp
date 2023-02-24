@@ -1,0 +1,6 @@
+github.com/go-sql-driver/mysql v1.7.0 h1:ueSltNNllEqE3qcWBTD0iQd3IpL/6U+mJxLkazJ7YPc=
+github.com/go-sql-driver/mysql v1.7.0/go.mod h1:OXbVy3sEdcQ2Doequ6Z5BW6fXNQTmx+9S1MCJN5yJMI=
+github.com/priceboronewport/filestore v0.0.0-20230224185250-89f3509b4e3b h1:ceag8wxo/1lMbA4JdGCPXcm/YTw05DJyKXEwhHSoZY0=
+github.com/priceboronewport/filestore v0.0.0-20230224185250-89f3509b4e3b/go.mod h1:duBH4t4Hl/PAoO5pQkxsmwJ7uhy+lZBS36gu+pssh3I=
+github.com/priceboronewport/logger v0.0.0-20230224192812-32125818790f h1:+DVPhDvhLj/8N6dmk41FyNLAU5tr7ttZ/Z9328rBiMI=
+github.com/priceboronewport/logger v0.0.0-20230224192812-32125818790f/go.mod h1:VmnM3m91DzLrNouj6bMFDdWaAcQS/Ak7wKsYTUIvV0g=
